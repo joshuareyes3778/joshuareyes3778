@@ -1,4 +1,4 @@
-## Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">I</a>☺
+## Hello, my name is Joshua Reyes, and I am  <a href="https://linkedin.com/in/Josh">Learning about IT services<
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
