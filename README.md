@@ -13,5 +13,5 @@
 <h2>Other links:</h2>
 
 
-[instagram]: 
-[linkedin]: https://www.linkedin.com/in/joshua-reyes-3465542b7/
+- LinkedIn: https://www.linkedin.com/in/joshua-reyes-3465542b7/
+- Instagram: 
